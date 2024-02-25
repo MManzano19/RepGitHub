@@ -6,6 +6,7 @@ public class Ejemplo2 {
 		System.out.println("a");
 		System.out.println("b");
 		System.out.println("ola");
+		System.out.println("adios");
 
 	}
 
